@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoWorkout/src/github.com/sitcons/info"
 	"fmt"
+	"github.com/sitcons/GoWorkout/src/github.com/sitcons/info"
 )
 
 func main() {
