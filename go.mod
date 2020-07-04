@@ -1,3 +1,3 @@
-module github.com/sitcons/GoWorkout
+module GoWorkout
 
 go 1.14
