@@ -1,9 +1,9 @@
 package info
 
 func Info() string {
-	return local_info()
+	return localInfo()
 }
 
-func local_info() string {
+func localInfo() string {
 	return "local info"
 }

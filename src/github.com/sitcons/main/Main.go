@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoWorkout/info"
+	"GoWorkout/src/github.com/sitcons/info"
 	"fmt"
 )
 
